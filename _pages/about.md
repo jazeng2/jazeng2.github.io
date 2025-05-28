@@ -20,13 +20,13 @@ My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated:
 
 Publications
 ------
-**Paintability of r-chromatic graphs ([arXiv](https://arxiv.org/abs/2403.11888))**\
+**Paintability of r-chromatic Graphs ([arXiv](https://arxiv.org/abs/2403.11888))**\
 with Peter Bradshaw\
 Published in Discrete Math, 2025
 
-**On the structure of EFX Orientations on graphs ([arXiv](https://arxiv.org/abs/2404.13527))**\
+**On the Structure of EFX Orientations on Graphs ([arXiv](https://arxiv.org/abs/2404.13527))**\
 with Ruta Mehta\
-Published in AAMAS, 2025
+Published in AAMAS 2025
 
 Honors and Awards
 ------
