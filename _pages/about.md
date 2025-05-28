@@ -16,7 +16,9 @@ I am fortunante to be under the advisement of [Chandra Chekuri](https://chekuri.
 
 My research interests lie at the intersection of combinatorics and theoretical computer science, spanning topics in graph theory, extremal combinatorics, graph algorithms, and game theory. I am interested in understanding the mathematical properties of graphs, and applying that knowledge to problems in theoretical computer science. 
 
-You can reach me at [jazeng2@illinois.edu](jazeng2@illinois.edu). My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: May 27, 2025). 
+You can reach me at [jazeng2@illinois.edu](jazeng2@illinois.edu). 
+
+My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: May 27, 2025). 
 
 Publications
 ------
