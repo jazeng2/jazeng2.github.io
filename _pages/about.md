@@ -20,12 +20,12 @@ You can reach me at [jazeng2@illinois.edu](jazeng2@illinois.edu).
 
 Publications
 ------
-**Paintability of r-chromatic graphs [arXiv](https://arxiv.org/abs/2403.11888)**
-with Peter Bradshaw
+**Paintability of r-chromatic graphs [arXiv](https://arxiv.org/abs/2403.11888)**\
+with Peter Bradshaw\
 Published in Discrete Math, 2025
 
-**On the structure of EFX Orientations on graphs [arXiv](https://arxiv.org/abs/2404.13527)**
-with Ruta Mehta
+**On the structure of EFX Orientations on graphs [arXiv](https://arxiv.org/abs/2404.13527)**\
+with Ruta Mehta\
 Published in AAMAS, 2025
 
 Honors and Awards
