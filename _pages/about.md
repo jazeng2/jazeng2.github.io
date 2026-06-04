@@ -12,9 +12,9 @@ About me
 
 Hi! My name is Jinghan (Annie) Zeng, and I am an incoming PhD Student in Computer Science at the University of Illinois Urbana-Champaign (UIUC). 
 
-I recieved a Bachelors in Computer Science and a Bachelors in Mathematics from the University of Illinois Urbana-Champaign in May 2026. My undergraduate thesis, **Packing Steiner Forests in Graphs**, was supervised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/), and can be found [here](https://jazeng2.github.io/files/senior-thesis.pdf). 
+I received a Bachelors in Computer Science and a Bachelors in Mathematics from the University of Illinois Urbana-Champaign in May 2026. My undergraduate thesis, **Packing Steiner Forests in Graphs**, was supervised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/), and can be found [here](https://jazeng2.github.io/files/senior-thesis.pdf). 
 
-During my undergraduate career, I was fortunate to be under the mentorship of [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku/home), [Ruta Mehta](https://rutamehta.cs.illinois.edu/), and [Peter Bradshaw](https://www.peter-bradshaw.com/) as part of the [CS STARS](https://siebelschool.illinois.edu/broadening-participation-computing/programs/csambassadors) and ICLUE programs. 
+During my undergraduate career, I was fortunate to also be under the mentorship of [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku/home), [Ruta Mehta](https://rutamehta.cs.illinois.edu/), and [Peter Bradshaw](https://www.peter-bradshaw.com/) as part of the [CS STARS](https://siebelschool.illinois.edu/broadening-participation-computing/programs/csambassadors) and ICLUE programs. 
 
 My research interests lie at the intersection of combinatorics and theoretical computer science, spanning topics in graph theory, extremal combinatorics, graph algorithms, and game theory. I am interested in understanding the mathematical properties of graphs, and applying that knowledge to problems in theoretical computer science. 
 
@@ -38,7 +38,7 @@ Published in AAMAS 2025
 Honors and Awards
 ------
 - UIUC Most Outsanding Mathematics Major (Class of 2026)
-- NSF Graduate Student Fellowship
+- US NSF Graduate Research Fellowship
 - 2025 Barry M Goldwater Scholarship
 - 2024 Putnam Competition Top 500
 
