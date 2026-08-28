@@ -13,6 +13,7 @@ About me
 Hi! My name is Jinghan (Annie) Zeng, and I am a PhD Student in Computer Science at the University of Illinois Urbana-Champaign (UIUC). 
 
 Email: ja[my last name]2@illinois.edu
+
 Office: Siebel 3219
 
 My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: August 27, 2026). 
