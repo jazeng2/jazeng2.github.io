@@ -16,7 +16,7 @@ Email: ja[my last name]2@illinois.edu
 
 Office: Siebel 3219
 
-My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: August 27, 2026). 
+My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: September 26, 2026). 
 
 I received a Bachelors in Computer Science and a Bachelors in Mathematics from the University of Illinois Urbana-Champaign in May 2026. My undergraduate thesis, **Packing Steiner Forests in Graphs**, was supervised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/), and can be found [here](https://arxiv.org/abs/2603.16956). 
 
