@@ -26,6 +26,9 @@ My research interests lie at the intersection of combinatorics and theoretical c
 
 Publications
 ------
+**A Polynomial Time Characterization For Strongly EFX Orientable Graphs ([arXiv](https://arxiv.org/abs/2609.36498))**\
+Preprint, 2026
+
 **On the Extension Theorem for Packing Steiner Forests ([arXiv](https://arxiv.org/abs/2603.16956))**\
 Preprint, Undergraduate Thesis, 2026
 
