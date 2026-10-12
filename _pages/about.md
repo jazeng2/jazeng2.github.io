@@ -18,7 +18,7 @@ Office: Siebel 3219
 
 My CV can be found [here](https://jazeng2.github.io/files/cv.pdf) (Last Updated: September 26, 2026). 
 
-I received a Bachelors in Computer Science and a Bachelors in Mathematics from the University of Illinois Urbana-Champaign in May 2026. My undergraduate thesis, **Packing Steiner Forests in Graphs**, was supervised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/), and can be found [here](https://arxiv.org/abs/2603.16956). 
+I received a Bachelor's in Computer Science and a Bachelor's in Mathematics from the University of Illinois Urbana-Champaign in May 2026. My undergraduate thesis, **Packing Steiner Forests in Graphs**, was supervised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/), and can be found [here](https://arxiv.org/abs/2603.16956). 
 
 During my undergraduate career, I was fortunate to also be under the mentorship of [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku/home), [Ruta Mehta](https://rutamehta.cs.illinois.edu/), and [Peter Bradshaw](https://www.peter-bradshaw.com/) as part of the [CS STARS](https://siebelschool.illinois.edu/broadening-participation-computing/programs/csambassadors) and ICLUE programs. 
 
@@ -42,7 +42,7 @@ Published in AAMAS 2025
 
 Honors and Awards
 ------
-- UIUC Most Outsanding Mathematics Major (Class of 2026)
+- UIUC Most Outstanding Mathematics Major (Class of 2026)
 - US NSF Graduate Research Fellowship
 - 2025 Barry M Goldwater Scholarship
 - 2024 Putnam Competition Top 500
